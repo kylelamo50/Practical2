@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical2</string>
+
+    <string-array name="Courses">
+        <item>COURSES</item>
+        <item>COMP3606</item>
+        <item>COMP3607</item>
+        <item>COMP1600</item>
+        <item>COMP3613</item>
+        <item>COMP3588</item>
+    </string-array>
+</resources>
